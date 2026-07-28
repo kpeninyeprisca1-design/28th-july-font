@@ -1,0 +1,45 @@
+body{
+    background-attachment:blue;
+    align-items: center;
+    justify-content: center;
+}
+header img{
+    height: 200px;
+}
+header{
+    text-align: center;
+}
+h1{
+    font-family: arial;
+}
+.project{
+    height: 70px;
+    width: 500px;
+    background-color:blueviolet;
+    border-radius: 8px;
+    
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color:white;
+}
+.visit-button{
+    text-align: center;
+    margin-top: 16px;
+}
+
+.visit-button button{
+    background-color: orange;
+    font-family: montserrat;
+    font-weight: bold;
+    padding: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.visit-button button:hover{
+    background-color: lightgreen;
+}
+
+
